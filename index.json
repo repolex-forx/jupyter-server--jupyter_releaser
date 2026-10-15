@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "jupyter_releaser",
+  "versions": [
+    {
+      "commit": "46ef93177dcaad76034e9baf9e39cff17e41942a",
+      "tag": "",
+      "parsed_at": "2026-10-15T13:43:28.879898+00:00"
+    }
+  ]
+}
